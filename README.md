@@ -1,9 +1,10 @@
 <h1 align="center"><strong>👋 Hey there! I'm Jayesh Lambdade</strong></h1>
-<h3 align="center"><strong>🚀 Full-Stack Developer | App Developer | ML Enthusiast</strong></h3>
+<h3 align="center"><strong> 💻Full-Stack Developer | 📱 App Developer | 🤖 ML Enthusiast</strong></h3>
 
-<p align="center">
-  I'm a Computer Science Engineering student at WIT Solapur with a passion for building innovative and impactful software solutions. I love exploring full-stack development, AI/ML, and mobile app development to create real-world solutions that make a difference.
-</p>
+
+### 🌍 <strong>About Me:</strong>
+I believe in building software that makes a difference. My journey is shaped by my love for **full-stack development**, **mobile applications**, and **AI/ML**. From enhancing user experience to integrating intelligent solutions, I’m always pushing my limits to create meaningful tech that helps individuals and communities thrive.
+
 
 ### 🔹 <strong>What I Do</strong>
 - 💻 **MERN Stack Development** – Building scalable web applications
@@ -27,6 +28,8 @@
 <a href="https://www.leetcode.com/jayeshl_49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jayeshl_49/" height="30" width="40" /></a>
 </p>
 
+---
+
 ### <strong>Languages and Tools:</strong>
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -46,8 +49,24 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshl07&show_icons=true&locale=en&layout=compact" alt="jayeshl07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayeshl07&show_icons=true&locale=en" alt="jayeshl07" /></p>
 
+---
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshl07&" alt="jayeshl07" /></p>
+
+---
+
+### 💡 <strong>Fun Fact:</strong>
+When I'm not coding, I'm either participating in hackathons, experimenting with new technologies, or learning about how tech can change the world for the better. 🎮
+
+---
+
+### 🔗 <strong>Tech Philosophy:</strong>  
+I believe in **building things that matter**. Whether it's an app that helps people manage their health or a system that optimizes global shipping routes, my goal is to use my skills to create solutions that make the world a better place.
+
+---
