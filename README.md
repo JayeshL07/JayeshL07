@@ -7,16 +7,16 @@ I believe in building software that makes a difference. My journey is shaped by 
 
 
 ### 🔹 <strong>What I Do</strong>
-- 💻 **MERN Stack Development** – Building scalable web applications
-- 📱 **App Development** – Designing mobile-first, cross-platform apps
-- 🤖 **AI & ML** – Applying machine learning to solve real-world problems
-- 📊 **Data-Driven Solutions** – Building intelligent systems using data
+- 💻 **MERN Stack Development** – Building scalable web applications.
+- 📱 **App Development** – Designing mobile-first, cross-platform apps.
+- 🤖 **AI & ML** – Applying machine learning to solve real-world problems.
+- 📊 **Data-Driven Solutions** – Building intelligent systems using data.
 
 ### 🌟 <strong>Currently Working On</strong>
-- 🧠 **Mental Health Assessment Platform** – Using data-driven insights to support mental wellness
-- 🚗 **Smart Parking Booking System** – Streamlining parking with real-time booking and availability
-- 🌍 **Real-Time Disaster Information Aggregator** – Using AI to aggregate disaster-related data
-- 🚢 **Ship Routing Optimization** – Developing algorithms for optimal ship routing in dynamic conditions
+- 🧠 **Mental Health Assessment Platform** – Using data-driven insights to support mental wellness. [Check it out here](https://mind-calm.vercel.app/)
+- 🚗 **Smart Parking Booking System** – Streamlining parking with real-time booking and availability.
+- 🌍 **Real-Time Disaster Information Aggregator** – Using AI to aggregate disaster-related data.
+- 🚢 **Ship Routing Optimization** – Developing algorithms for optimal ship routing in dynamic conditions.
 
 ---
 
